@@ -1,1 +1,1 @@
-# happyCampers
+## Happy Campers - Project 3
